@@ -11,7 +11,7 @@ Proyectos donde pueda aplicar mis habilidades en desarrollo full stack, combinan
 mi formación en diversas áreas me permiten aportar soluciones completas que no solo resuelvan problemas técnicos, sino que también tengan en cuenta aspectos legales y éticos, 
 como la privacidad y la seguridad de los usuarios.
 📫 ¿Cómo llegar a mí?
-Puedes contactarme a través de mikeagf300@gmail.com. Si estás interesado en colaborar o discutir algún proyecto, ¡estaré encantado de conectarme contigo!
+Puedes contactarme a través de mikeagf300@gmail.com o en mi http://www.linkedin.com/in/miguel-gomez-17621430a. Si estás interesado en colaborar o discutir algún proyecto, ¡estaré encantado de conectarme contigo!
 ⚡ Fun fact: 
 Además de mi pasión por la tecnología, me encanta el dibujo y la ilustración. Creo que la creatividad es clave para desarrollar soluciones visualmente atractivas y fáciles de usar. 
 Esta habilidad me ha permitido diseñar interfaces que mejoran la experiencia del usuario de manera significativa.
